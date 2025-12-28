@@ -81,6 +81,7 @@ LearningManagementSystem/
 │
 └── .gitignore
 
+
 ⚙️ Environment Variables
 
 Create a .env file inside lms-backend:
